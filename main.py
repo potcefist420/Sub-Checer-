@@ -20,8 +20,8 @@ from aiogram.exceptions import TelegramBadRequest, TelegramForbiddenError
 from aiogram.client.default import DefaultBotProperties
 
 # ─────────────────────────── CONFIGURATION ────────────────────────────
-BOT_TOKEN = "8532241109:AAENWI8I_czvRO2hlCC9ecCdAMkulNptGII"
-ADMIN_ID   = 6910883192
+BOT_TOKEN = "API: THERE"
+ADMIN_ID   = 12221233
 DB_FILE    = "db.json"
 
 # ─────────────────────────── LOGGING ──────────────────────────────────
